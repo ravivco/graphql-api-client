@@ -1,4 +1,14 @@
 {
+    "name": "himik/graphql-api-client",
+    "description": "Provide client based on guzzle",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Ruslan Evchev",
+            "email": "aion.planet.com@gmail.com"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^6.2",
         "himik/simple-graphql-query-builder": "^0.1.2"
