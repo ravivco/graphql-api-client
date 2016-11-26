@@ -66,7 +66,7 @@ try {
     $requestId = $client->getRequestId();
 
     echo json_encode($data, 128);
-    
+
 } catch (\GraphQLClient\Util\DatableHttpException $e) {
     echo $e->getMessage();
 }
