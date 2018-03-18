@@ -1,24 +1,8 @@
 {
-    "name": "himik/graphql-api-client",
-    "description": "Provide client based on guzzle",
-    "minimum-stability": "dev",
-    "license": "proprietary",
-    "authors": [
-        {
-            "name": "Ruslan Evchev",
-            "email": "aion.planet.com@gmail.com"
-        }
-    ],
     "require": {
         "guzzlehttp/guzzle": "^6.2",
-        "himik/graphql-query-builder": "dev-master"
+        "himik/graphql-query-builder": "dev-develop"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/ravivco/graphql-query-builder.git"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "GraphQLClient\\": "src"
