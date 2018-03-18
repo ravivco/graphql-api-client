@@ -9,6 +9,16 @@
             "email": "aion.planet.com@gmail.com"
         }
     ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "himik/simple-graphql-query-builder": "dev-develop"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/ravivco/graphql-query-builder.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "GraphQLClient\\": "src"
