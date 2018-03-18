@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/ravivco/graphql-query-builder.git"
+            "url": "https://github.com/ravivco/simple-graphql-query-builder.git"
         }
     ],
     "autoload": {
