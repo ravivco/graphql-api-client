@@ -1,7 +1,6 @@
 {
     "name": "himik/graphql-api-client",
     "description": "Provide client based on guzzle",
-    "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
         {
