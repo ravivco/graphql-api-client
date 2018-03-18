@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.2",
-        "himik/graphql-query-builder": "dev-master"
+        "guzzlehttp/guzzle": "^6.2"
     },
     "repositories": [
         {
