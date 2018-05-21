@@ -6,6 +6,12 @@
         "guzzlehttp/guzzle": "^6.2",
         "himik/graphql-query-builder": "dev-develop"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/ravivco/graphql-api-builder.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "GraphQLClient\\": "src"
